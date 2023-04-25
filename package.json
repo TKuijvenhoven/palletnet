@@ -1,7 +1,7 @@
 {
   "name": "palletnet",
-  "version": "1.0.0",
   "description": "A CSS framework",
+  "version": "1.0.1",
   "main": "index.css",
   "scripts": {
     "test": "launch"

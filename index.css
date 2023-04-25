@@ -1,10 +1,3 @@
-/* 
-1. Write 100 colornames with the color code. The colornames should be written in the following format:
-2. .colorname {
-   color: colorcode;
-3. The colornames should be sorted alphabetically. 
-*/
-
 .aliceblue {
     color: #F0F8FF;
   }
@@ -185,3 +178,4 @@
   .indianred{
         color:#CD5C5C 
 }
+
