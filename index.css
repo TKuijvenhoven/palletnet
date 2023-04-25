@@ -1,0 +1,187 @@
+/* 
+1. Write 100 colornames with the color code. The colornames should be written in the following format:
+2. .colorname {
+   color: colorcode;
+3. The colornames should be sorted alphabetically. 
+*/
+
+.aliceblue {
+    color: #F0F8FF;
+  }
+  .antiquewhite {
+    color: #FAEBD7;
+  }
+  .aqua {
+    color: #00FFFF;
+  }
+  .aquamarine {
+    color: #7FFFD4;
+  }
+  .azure {
+    color: #F0FFFF;
+  }
+  .beige {
+    color: #F5F5DC;
+  }
+  .bisque {
+    color: #FFE4C4;
+  }
+  .black {
+    color: #000000;
+  }
+  .blanchedalmond {
+    color: #FFEBCD;
+  }
+  .blue {
+    color: #0000FF;
+  }
+  .blueviolet {
+    color: #8A2BE2;
+  }
+  .brown {
+    color: #A52A2A;
+  }
+  .burlywood {
+    color: #DEB887;
+  }
+  .cadetblue {
+    color: #5F9EA0;
+  }
+  .chartreuse {
+    color: #7FFF00;
+  }
+  .chocolate {
+    color: #D2691E;
+  }
+  .coral {
+    color: #FF7F50;
+  }
+  .cornflowerblue {
+    color: #6495ED;
+  }
+  .cornsilk {
+    color: #FFF8DC;
+  }
+  .crimson {
+    color: #DC143C;
+  }
+  .cyan {
+    color: #00FFFF;
+  }
+  .darkblue {
+    color: #00008B;
+  }
+  .darkcyan {
+    color: #008B8B;
+  }
+  .darkgoldenrod {
+    color: #B8860B;
+  }
+  .darkgray {
+    color: #A9A9A9;
+  }
+  .darkgrey {
+    color: #A9A9A9;
+  }
+  .darkgreen {
+    color: #006400;
+  }
+  .darkkhaki {
+    color: #BDB76B;
+  }
+  .darkmagenta {
+    color: #8B008B;
+  }
+  .darkolivegreen {
+    color: #556B2F;
+  }
+  .darkorange {
+    color: #FF8C00;
+  }
+  .darkorchid {
+    color: #9932CC;
+  }
+  .darkred {
+    color: #8B0000;
+  }
+  .darksalmon {
+    color: #E9967A;
+  }
+  .darkseagreen {
+    color: #8FBC8F;
+  }
+  .darkslateblue {
+    color: #483D8B;
+  }
+  .darkslategray {
+    color: #2F4F4F;
+  }
+  .darkslategrey {
+    color: #2F4F4F;
+  }
+  .darkturquoise {
+    color: #00CED1;
+  }
+  .darkviolet {
+    color: #9400D3;
+  }
+  .deeppink {
+    color: #FF1493;
+  }
+  .deepskyblue {
+    color: #00BFFF;
+  }
+  .dimgray{
+        color:#696969
+  } 
+  .dimgrey{
+        color:#696969
+  } 
+  .dodgerblue{
+        color:#1E90FF
+  } 
+  .firebrick{
+        color:#B22222
+  } 
+  .floralwhite{
+        color:#FFFAF0
+  } 
+  .forestgreen{
+        color:#228B22
+  } 
+  .fuchsia{
+        color:#FF00FF
+  } 
+  .gainsboro{
+        color:#DCDCDC
+  } 
+  .ghostwhite{
+        color:#F8F8FF
+  } 
+  .gold{
+        color:#FFD700
+  } 
+  .goldenrod{
+        color:#DAA520
+  } 
+  .gray{
+        color:#808080
+  } 
+  .grey{
+        color:#808080
+  } 
+  .green{
+        color:#008000
+  } 
+  .greenyellow{
+        color:#ADFF2F
+  } 
+  .honeydew{
+        color:#F0FFF0
+  } 
+  .hotpink{
+        color:#FF69B4
+  } 
+  .indianred{
+        color:#CD5C5C 
+}

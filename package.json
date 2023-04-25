@@ -1,0 +1,15 @@
+{
+  "name": "palletnet",
+  "version": "1.0.0",
+  "description": "A CSS framework",
+  "main": "index.css",
+  "scripts": {
+    "test": "launch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "projectPallet"
+  },
+  "author": "TKuijvenhoven",
+  "license": "ISC"
+}
