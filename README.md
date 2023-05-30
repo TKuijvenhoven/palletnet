@@ -1,11 +1,12 @@
-# Pallet
-Pallet is a versatile color framework designed to help create beautiful and consistent color schemes for their projects. 
-<br> <br>
-Here is a step-by-step guide to install palletnet:
-1. Open your terminal or command prompt.
-2. Navigate to the directory where you want to install palletnet.
-3. Run the command npm i palletnet to install the package.
-4. The package will be installed and added to your dependencies.
+# Palletnet CSS Framework
 
+Palletnet is a lightweight, customizable CSS framework that offers built-in dark mode functionality. Palletnet is easy to integrate into any project and allows users to easily switch between light and dark themes.
 
+## Features
 
+- Dark mode switcher: Give your users the ability to switch between light and dark themes.
+- Color Classes: Use the pre-defined CSS classes to easily set the color of your elements.
+
+## Installation
+
+Before getting started, make sure that you have Node.js and npm installed on your machine.
