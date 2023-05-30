@@ -1,4 +1,4 @@
-# Palletnet CSS Framework
+# Palletnet A HTML, CSS, and JavaScript Framework
 
 Palletnet is a lightweight, customizable CSS framework that offers built-in dark mode functionality. Palletnet is easy to integrate into any project and allows users to easily switch between light and dark themes.
 
