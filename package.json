@@ -1,6 +1,6 @@
 {
   "name": "palletnet",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "A HTML, CSS, and JavaScript framework",
   "main": "css/palletnet-palette.css",
   "scripts": {
