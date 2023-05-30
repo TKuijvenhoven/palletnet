@@ -6,3 +6,6 @@ Here is a step-by-step guide to install palletnet:
 2. Navigate to the directory where you want to install palletnet.
 3. Run the command npm i palletnet to install the package.
 4. The package will be installed and added to your dependencies.
+
+
+
